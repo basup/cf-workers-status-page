@@ -15,25 +15,21 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: apexitconsult.com
-    name: apexitconsult.com
-    url: 'https://apexitconsult.com/'
+  - id: fsxmarket.com
+    name: fsxmarket.com
+    url: 'https://fsxmarket.com/'
 
   - id: blog.fsxmarket.com
     name: blog.fsxmarket.com
     url: 'https://blog.fsxmarket.com'
 
-  - id: offertool.thebazaarinc.com
-    name: offertool.thebazaarinc.com
-    url: 'https://offertool.thebazaarinc.com/'
-
-  - id: files.elkerp.com
-    name: files.elkerp.com
-    url: 'https://files.elkerp.com/'
-
   - id: media.fsxmarket.com
     name: media.fsxmarket.com
     url: 'https://media.fsxmarket.com/'
+
+  - id: offertool.thebazaarinc.com
+    name: offertool.thebazaarinc.com
+    url: 'https://offertool.thebazaarinc.com/login'
 
   - id: o2cool.com
     name: o2cool.com
@@ -41,19 +37,24 @@ monitors:
 
   - id: trevahome.com
     name: trevahome.com
-    url: 'http://trevahome.com/'
+    url: 'https://trevahome.com/'
 
   - id: waterbobble.com
     name: waterbobble.com
-    url: 'http://waterbobble.com/'
+    url: 'https://waterbobble.com/'
 
   - id: b2b.o2cool.com
     name: b2b.o2cool.com
-    url: 'http://b2b.o2cool.com/'
-
+    url: 'https://b2b.o2cool.com/'
 
   - id: lunchbots.com
     name: lunchbots.com
-    url: 'http://lunchbots.com/'
-
+    url: 'https://lunchbots.com/'
     
+  - id: apexitconsult.com
+    name: apexitconsult.com
+    url: 'https://apexitconsult.com/'
+
+  - id: files.elkerp.com
+    name: files.elkerp.com
+    url: 'https://files.elkerp.com/'
