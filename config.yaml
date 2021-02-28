@@ -15,23 +15,45 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: workers-cloudflare-com # unique identifier
-    name: workers.cloudflare.com
-    description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://workers.cloudflare.com/' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
+  - id: apexitconsult.com
+    name: apexitconsult.com
+    url: 'https://apexitconsult.com/'
 
-  - id: www-cloudflare-com
-    name: www.cloudflare.com
-    description: 'Built for anything connected to the Internet.'
-    url: 'https://www.cloudflare.com'
-    method: GET
-    expectStatus: 200
+  - id: blog.fsxmarket.com
+    name: blog.fsxmarket.com
+    url: 'https://blog.fsxmarket.com'
 
-  - id: blog-cloudflare-com
-    name: The Cloudflare Blog
-    url: 'https://blog.cloudflare.com/'
-    method: GET
-    expectStatus: 200
+  - id: offertool.thebazaarinc.com
+    name: offertool.thebazaarinc.com
+    url: 'https://offertool.thebazaarinc.com/'
+
+  - id: files.elkerp.com
+    name: files.elkerp.com
+    url: 'https://files.elkerp.com/'
+
+  - id: media.fsxmarket.com
+    name: media.fsxmarket.com
+    url: 'https://media.fsxmarket.com/'
+
+  - id: o2cool.com
+    name: o2cool.com
+    url: 'https://o2cool.com/'
+
+  - id: trevahome.com
+    name: trevahome.com
+    url: 'http://trevahome.com/'
+
+  - id: waterbobble.com
+    name: waterbobble.com
+    url: 'http://waterbobble.com/'
+
+  - id: b2b.o2cool.com
+    name: b2b.o2cool.com
+    url: 'http://b2b.o2cool.com/'
+
+
+  - id: lunchbots.com
+    name: lunchbots.com
+    url: 'http://lunchbots.com/'
+
+    
