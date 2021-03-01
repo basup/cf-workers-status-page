@@ -16,8 +16,8 @@ settings:
 
 monitors:
   - id: fsxmarket.com
-    name: fsxmarket.com
-    url: 'https://fsxmarket.com/'
+    name: www.fsxmarket.com
+    url: 'https://www.fsxmarket.com/'
 
   - id: blog.fsxmarket.com
     name: blog.fsxmarket.com
