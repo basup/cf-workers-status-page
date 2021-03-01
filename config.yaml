@@ -48,8 +48,8 @@ monitors:
     url: 'https://b2b.o2cool.com/'
 
   - id: lunchbots.com
-    name: lunchbots.com
-    url: 'https://lunchbots.com/'
+    name: www.lunchbots.com
+    url: 'https://www.lunchbots.com/'
     
   - id: apexitconsult.com
     name: apexitconsult.com
